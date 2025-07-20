@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "A small tool to generate and display a QR code in a popup window"
 readme = "README.md"
 requires-python = ">=3.7"
-authors = [{ name="Your Name", email="you@example.com" }]
+authors = [{ name="Won Woo Nam"}]
 dependencies = [
     "qrcode[pil]",
     "pillow"
